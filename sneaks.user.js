@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Sneaks ATC
 // @namespace    https://
-// @version      1.01
-// @description  Autorun on applicable pages
+// @version      1.02
+// @description  autorun on applicable pages
 // @author       Sneaks
 // @match        *.sotostore.com/en/?sn=*
 // @match        *.nakedcph.com/cart/?sn=*
