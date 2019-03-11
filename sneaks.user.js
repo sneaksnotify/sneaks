@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Sneaks ATC
 // @namespace    https://
-// @version      1.02
-// @description  autorun on applicable pages
+// @version      1.05
+// @description  Autorun on applicable pages
 // @author       Sneaks
 // @match        *.sotostore.com/en/?sn=*
 // @match        *.nakedcph.com/cart/?sn=*
 // @match        *.sneakersnstuff.com/en/?sn=*
+// @updateUrl    https://github.com/sneaksnotify/sneaks/raw/master/sneaks.user.js
+// @downloadUrl  https://github.com/sneaksnotify/sneaks/raw/master/sneaks.user.js
 // @grant        none
 // ==/UserScript==
 
